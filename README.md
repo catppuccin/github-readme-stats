@@ -6,9 +6,9 @@
 </h3>
 
 <p align="center">
-    <a href="https://github.com/catppuccin/github-readme-stats/stargazers"><img src="https://img.shields.io/github/stars/catppuccin/github-readme-stats?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
-    <a href="https://github.com/catppuccin/github-readme-stats/issues"><img src="https://img.shields.io/github/issues/catppuccin/github-readme-stats?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
-    <a href="https://github.com/catppuccin/github-readme-stats/contributors"><img src="https://img.shields.io/github/contributors/catppuccin/github-readme-stats?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
+	<a href="https://github.com/catppuccin/github-readme-stats/stargazers"><img src="https://img.shields.io/github/stars/catppuccin/github-readme-stats?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
+	<a href="https://github.com/catppuccin/github-readme-stats/issues"><img src="https://img.shields.io/github/issues/catppuccin/github-readme-stats?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
+	<a href="https://github.com/catppuccin/github-readme-stats/contributors"><img src="https://img.shields.io/github/contributors/catppuccin/github-readme-stats?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
 </p>
 
 ## Usage
@@ -44,6 +44,7 @@ append `&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5`
 ## 💝 Thanks to
 
 - [Sanjay Pavan](https://github.com/WitherCubes)
+- [daylin](https://github.com/daylinmorgan)
 
 &nbsp;
 
