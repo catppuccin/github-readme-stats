@@ -6,22 +6,45 @@
 </h3>
 
 <p align="center">
-    <a href="https://github.com/catppuccin/github-readme-stats/stargazers"><img src="https://img.shields.io/github/stars/catppuccin/github-readme-stats?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
-    <a href="https://github.com/catppuccin/github-readme-stats/issues"><img src="https://img.shields.io/github/issues/catppuccin/github-readme-stats?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
-    <a href="https://github.com/catppuccin/github-readme-stats/contributors"><img src="https://img.shields.io/github/contributors/catppuccin/github-readme-stats?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
+	<a href="https://github.com/catppuccin/github-readme-stats/stargazers"><img src="https://img.shields.io/github/stars/catppuccin/github-readme-stats?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
+	<a href="https://github.com/catppuccin/github-readme-stats/issues"><img src="https://img.shields.io/github/issues/catppuccin/github-readme-stats?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
+	<a href="https://github.com/catppuccin/github-readme-stats/contributors"><img src="https://img.shields.io/github/contributors/catppuccin/github-readme-stats?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
 </p>
-
-![Github Readme Stats Theme Preview 1](https://github-readme-stats.vercel.app/api?username=Pocco81&show_icons=true&bg_color=161320&text_color=D9E0EE&icon_color=DDB6F2&title_color=96CDFB)
-
-![Github Readme Stats Theme Preview 2](https://github-readme-stats.vercel.app/api/pin/?username=catppuccin&repo=catppuccin&bg_color=161320&text_color=D9E0EE&icon_color=DDB6F2&title_color=96CDFB)
 
 ## Usage
 
-1. Append `&bg_color=161320&text_color=D9E0EE&icon_color=DDB6F2&title_color=96CDFB` to the URL.
+### Latte
+
+![latte user preview](https://github-readme-stats.vercel.app/api?username=Pocco81&show_icons=true&bg_color=eff1f5&text_color=4c4f69&icon_color=8839ef&title_color=179299)
+![latte repo preview](https://github-readme-stats.vercel.app/api/pin/?username=catppuccin&repo=catppuccin&bg_color=eff1f5&text_color=4c4f69&icon_color=8839ef&title_color=179299)
+
+append `&bg_color=eff1f5&text_color=4c4f69&icon_color=8839ef&title_color=179299` to the url
+
+### Frappe
+
+![frappe user preview](https://github-readme-stats.vercel.app/api?username=Pocco81&show_icons=true&bg_color=303446&text_color=c6d0f5&icon_color=ca9ee6&title_color=81c8be)
+![frappe repo preview](https://github-readme-stats.vercel.app/api/pin/?username=catppuccin&repo=catppuccin&bg_color=303446&text_color=c6d0f5&icon_color=ca9ee6&title_color=81c8be)
+
+append `&bg_color=303446&text_color=c6d0f5&icon_color=ca9ee6&title_color=81c8be` to the url
+
+### Macchiato
+
+![macchiato user preview](https://github-readme-stats.vercel.app/api?username=Pocco81&show_icons=true&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca)
+![macchiato repo preview](https://github-readme-stats.vercel.app/api/pin/?username=catppuccin&repo=catppuccin&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca)
+
+append `&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca` to the url
+
+### Mocha
+
+![mocha user preview](https://github-readme-stats.vercel.app/api?username=Pocco81&show_icons=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5)
+![mocha repo preview](https://github-readme-stats.vercel.app/api/pin/?username=catppuccin&repo=catppuccin&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5)
+
+append `&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5` to the url
 
 ## 💝 Thanks to
 
 - [Sanjay Pavan](https://github.com/WitherCubes)
+- [daylin](https://github.com/daylinmorgan)
 
 &nbsp;
 
