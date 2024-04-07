@@ -1,9 +1,0 @@
-{
-  "type": "module",
-  "dependencies": {
-    "@catppuccin/palette": "^0.1.4"
-  },
-  "scripts": {
-    "readme": "node scripts/update.js"
-  }
-}

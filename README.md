@@ -11,35 +11,48 @@
 	<a href="https://github.com/catppuccin/github-readme-stats/contributors"><img src="https://img.shields.io/github/contributors/catppuccin/github-readme-stats?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
 </p>
 
+<p float="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=sgoudham&show_icons=true&bg_color=eff1f5&text_color=4c4f69&icon_color=8839ef&title_color=179299" alt="Latte User Preview" width=400>
+  <img src="https://github-readme-stats.vercel.app/api?username=sgoudham&show_icons=true&bg_color=303446&text_color=c6d0f5&icon_color=ca9ee6&title_color=81c8be" alt="Frappé User Preview" width=400>
+  <img src="https://github-readme-stats.vercel.app/api?username=sgoudham&show_icons=true&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca" alt="Macchiato User Preview" width=400>
+  <img src="https://github-readme-stats.vercel.app/api?username=sgoudham&show_icons=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" alt="Mocha User Preview" width=400>
+</p>
+
+## Previews
+<details>
+<summary>🌻 Latte</summary>
+<img src="https://github-readme-stats.vercel.app/api?username=sgoudham&show_icons=true&bg_color=eff1f5&text_color=4c4f69&icon_color=8839ef&title_color=179299" alt="Latte User Preview">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=catppuccin&repo=catppuccin&bg_color=eff1f5&text_color=4c4f69&icon_color=8839ef&title_color=179299" alt="Latte Repo Preview">
+</details>
+<details>
+<summary>🪴 Frappé</summary>
+<img src="https://github-readme-stats.vercel.app/api?username=sgoudham&show_icons=true&bg_color=303446&text_color=c6d0f5&icon_color=ca9ee6&title_color=81c8be" alt="Frappé User Preview">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=catppuccin&repo=catppuccin&bg_color=303446&text_color=c6d0f5&icon_color=ca9ee6&title_color=81c8be" alt="Frappé Repo Preview">
+</details>
+<details>
+<summary>🌺 Macchiato</summary>
+<img src="https://github-readme-stats.vercel.app/api?username=sgoudham&show_icons=true&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca" alt="Macchiato User Preview">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=catppuccin&repo=catppuccin&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca" alt="Macchiato Repo Preview">
+</details>
+<details>
+<summary>🌿 Mocha</summary>
+<img src="https://github-readme-stats.vercel.app/api?username=sgoudham&show_icons=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" alt="Mocha User Preview">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=catppuccin&repo=catppuccin&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" alt="Mocha Repo Preview">
+</details>
+
 ## Usage
 
-### Latte
+> [!IMPORTANT]
+> Catppuccin **Latte** & **Mocha** have been upstreamed and are included as
+> default themes. For example, append `?theme=catppuccin_latte` or
+> `?theme=catppuccin_mocha` to use them.
 
-![latte user preview](https://github-readme-stats.vercel.app/api?username=Pocco81&show_icons=true&bg_color=eff1f5&text_color=4c4f69&icon_color=8839ef&title_color=179299)
-![latte repo preview](https://github-readme-stats.vercel.app/api/pin/?username=catppuccin&repo=catppuccin&bg_color=eff1f5&text_color=4c4f69&icon_color=8839ef&title_color=179299)
+Append one of the following theme strings to the end of the card URL:
 
-append `&bg_color=eff1f5&text_color=4c4f69&icon_color=8839ef&title_color=179299` to the url
-
-### Frappe
-
-![frappe user preview](https://github-readme-stats.vercel.app/api?username=Pocco81&show_icons=true&bg_color=303446&text_color=c6d0f5&icon_color=ca9ee6&title_color=81c8be)
-![frappe repo preview](https://github-readme-stats.vercel.app/api/pin/?username=catppuccin&repo=catppuccin&bg_color=303446&text_color=c6d0f5&icon_color=ca9ee6&title_color=81c8be)
-
-append `&bg_color=303446&text_color=c6d0f5&icon_color=ca9ee6&title_color=81c8be` to the url
-
-### Macchiato
-
-![macchiato user preview](https://github-readme-stats.vercel.app/api?username=Pocco81&show_icons=true&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca)
-![macchiato repo preview](https://github-readme-stats.vercel.app/api/pin/?username=catppuccin&repo=catppuccin&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca)
-
-append `&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca` to the url
-
-### Mocha
-
-![mocha user preview](https://github-readme-stats.vercel.app/api?username=Pocco81&show_icons=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5)
-![mocha repo preview](https://github-readme-stats.vercel.app/api/pin/?username=catppuccin&repo=catppuccin&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5)
-
-append `&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5` to the url
+- **Latte**: `&bg_color=eff1f5&text_color=4c4f69&icon_color=8839ef&title_color=179299`
+- **Frappé**: `&bg_color=303446&text_color=c6d0f5&icon_color=ca9ee6&title_color=81c8be`
+- **Macchiato**: `&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca`
+- **Mocha**: `&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5`
 
 ## 💝 Thanks to
 
